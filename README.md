@@ -1,0 +1,2 @@
+# bash
+kleine bashskripte
