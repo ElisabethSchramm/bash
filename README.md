@@ -1,2 +1,2 @@
 # bash
-kleine bashskripte
+kleine bashskripte für den privaten gebrauch
