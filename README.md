@@ -30,7 +30,7 @@ Make sure your video file is in a folder without special characters or spaces in
 
 Run the script:
 ```bash
-bash stabilize_video.sh
+bash stabilizeAVI.sh
 
 ### Notes
 
