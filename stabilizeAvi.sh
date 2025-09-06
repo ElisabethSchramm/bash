@@ -1,8 +1,8 @@
 #!/bin/bash
-# avi-video stabilisieren
-# files and directorys sollten keine sonderzeichen enthalten 
-# "unable to read exif data from opened file:" ist normal
-# benötigt: ffmpeg, imagemagick, realpath, mediainfo
+# Video stabilization
+# Files and directories should not contain special characters
+# "unable to read exif data from opened file:" is normal
+# Required: ffmpeg, imagemagick, realpath, mediainfo
 
 chooseoptions () {
     local intoduction="Introduction:"
@@ -499,4 +499,5 @@ convertVideoAndAudioToAvi () { # arg1: input video.avi; arg2: input audio  arg3:
 }
 
     chooseoptions
+
 
