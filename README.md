@@ -1,6 +1,7 @@
 # Small bash scripts for personal use 
 
-The small scripts were designed to process videos according to the specified requirements.  
+The small scripts were designed to process videos according to the specified requirements, a few years ago.
+
 They also served as a way to learn the basics of Bash scripting.  
 They are without any graphical user interface.
 
@@ -30,11 +31,8 @@ Make sure your video file is in a folder without special characters or spaces in
 
 Run the script:
 ```bash
-bash stabilizeAVI.sh
+bash stabilizeAvi.sh
 
 ### Notes
 
 If you see "unable to read exif data from opened file", don't worry — it's normal.
-
-
-
