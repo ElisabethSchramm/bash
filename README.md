@@ -24,6 +24,7 @@ On Ubuntu/Debian:
 
 ```bash
 sudo apt install ffmpeg imagemagick mediainfo realpath
+```
 
 ### How to Use
 
@@ -32,14 +33,13 @@ Make sure your video file is in a folder without special characters or spaces in
 Run the script:
 ```bash
 bash stabilizeAvi.sh
+```
 
 ### Notes
 
 If you see "unable to read exif data from opened file", don't worry — it's normal.
 
-
 ## Convert the video to a gif and back to a video to achieve the gif effect.
-
 
 ### Requirements
 
@@ -56,6 +56,7 @@ On Ubuntu/Debian:
 
 ```bash
 sudo apt install ffmpeg imagemagick mediainfo realpath
+```
 
 ### How to Use
 
@@ -64,3 +65,4 @@ Make sure your video file is in a folder without special characters or spaces in
 Run the script:
 ```bash
 bash video_to_gif_to_video.sh
+```
