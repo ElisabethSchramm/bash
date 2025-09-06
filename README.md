@@ -1,2 +1,2 @@
 # bash
-kleine bashskripte für den privaten gebrauch
+Small bash scripts for personal use without a graphical user interface.
