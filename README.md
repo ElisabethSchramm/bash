@@ -11,7 +11,7 @@ This is a script to stabilize videos. It uses ffmpeg to improve shaky footage.
 
 ### Requirements
 
-You need to have these programs installed:
+You must have these programs installed:
 
 - ffmpeg: For video processing.
 - ImageMagick: For image manipulation (used during stabilization).
